@@ -17,7 +17,7 @@ pip install pyautogui pyperclip pandas google-cloud-bigquery
 
 2. Configure o arquivo `config.py` com:
    - Caminho para a chave JSON de autenticação do BigQuery
-   - Nome do projeto, dataset e tabelas
+   - Nome do projeto, dataset e tabelas (Deixado como exemplo no config.py)
 
 3. Execute o pipeline completo:
 ```bash
