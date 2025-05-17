@@ -26,4 +26,4 @@ python main.py
 
 ## Observação
 
-A parte do dashboard no Looker Studio deve ser feita manualmente usando os dados carregados no BigQuery.
+A parte do dashboard no Looker Studio foi feita manualmente usando os dados carregados no BigQuery.
