@@ -1,4 +1,4 @@
-BIGQUERY_KEY_PATH = BIGQUERY_KEY_PATH = r"C:\Users\Acer\Downloads\rodoprima_pipeline\rodoprima-analise-9eccaa119877.json"
+BIGQUERY_KEY_PATH = BIGQUERY_KEY_PATH = r"C:\Users\Acer\Downloads\rodoprima_pipeline\rodoprima-analise-9eccaax1x8x.json"
 
 PROJECT_ID = "rodoprima-analise"
 DATASET_ID = "rodoprima_dataset"
